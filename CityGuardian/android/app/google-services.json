@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176120534802",
+    "project_id": "cityguardian-8ec40",
+    "storage_bucket": "cityguardian-8ec40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176120534802:android:4cb1480cfd19a9fee885cb",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176120534802-1hq5dcd892nbdirrptl21rv6n1jofcer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_app",
+            "certificate_hash": "f1c1e698021f96840adddbde7f1addfbb91704cd"
+          }
+        },
+        {
+          "client_id": "176120534802-gakde2jga62pcck3psgpjrapd6t3ica9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_app",
+            "certificate_hash": "6e87e42ec9abf1f8702648e899a47a1f7d96e427"
+          }
+        },
+        {
+          "client_id": "176120534802-detnvmu2d9m0c3mq45m7hvb83po3atb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtgLJmoB_pykte1IbT8F8M7hJd1MJHIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176120534802-detnvmu2d9m0c3mq45m7hvb83po3atb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
