@@ -27,8 +27,8 @@ CityGuardian is a smart, AI-powered urban safety app designed to empower citizen
 
 ---
 ## 📷 Screenshots
-![WhatsApp Image 2025-06-24 at 14.29.22.jpeg](CityGuardian%2Fassets%2FWhatsApp%20Image%202025-06-24%20at%2014.29.22.jpeg)
 ![WhatsApp Image 2025-06-24 at 14.29.21 (1).jpeg](CityGuardian%2Fassets%2FWhatsApp%20Image%202025-06-24%20at%2014.29.21%20%281%29.jpeg)
+![WhatsApp Image 2025-06-24 at 14.29.22.jpeg](CityGuardian%2Fassets%2FWhatsApp%20Image%202025-06-24%20at%2014.29.22.jpeg)
 ![WhatsApp Image 2025-06-24 at 14.29.21.jpeg](CityGuardian%2Fassets%2FWhatsApp%20Image%202025-06-24%20at%2014.29.21.jpeg)
 
 ## 🤝 Contributing
